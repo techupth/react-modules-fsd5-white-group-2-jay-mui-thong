@@ -1,9 +1,11 @@
-import Header from "./components/Header";
-import MainContent from "./components/MainContent";
-import ProductSection from "./components/ProductSection";
-import FAQ from "./components/Faq";
-import Footer from "./components/Footer";
 import "./App.css";
+import {
+  Header,
+  MainContent,
+  ProductSection,
+  FAQ,
+  Footer,
+} from "./components/MainComponents";
 
 function App() {
   return (
